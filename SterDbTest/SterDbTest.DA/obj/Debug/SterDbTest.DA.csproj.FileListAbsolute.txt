@@ -1,0 +1,13 @@
+D:\Projects\SterDbTest\SterDbTest.DA\bin\Debug\SterDbTest.DA.dll
+D:\Projects\SterDbTest\SterDbTest.DA\bin\Debug\SterDbTest.DA.pdb
+D:\Projects\SterDbTest\SterDbTest.DA\obj\Debug\SterDbTest.DA.Properties.Resources.resources
+D:\Projects\SterDbTest\SterDbTest.DA\obj\Debug\SterDbTest.DA.csproj.GenerateResource.Cache
+D:\Projects\SterDbTest\SterDbTest.DA\obj\Debug\SterDbTest.DA.dll
+D:\Projects\SterDbTest\SterDbTest.DA\obj\Debug\SterDbTest.DA.pdb
+C:\Users\sasha\Desktop\SterDbTest\SterDbTest\SterDbTest.DA\bin\Debug\SterDbTest.DA.dll
+C:\Users\sasha\Desktop\SterDbTest\SterDbTest\SterDbTest.DA\bin\Debug\SterDbTest.DA.pdb
+C:\Users\sasha\Desktop\SterDbTest\SterDbTest\SterDbTest.DA\obj\Debug\SterDbTest.DA.Properties.Resources.resources
+C:\Users\sasha\Desktop\SterDbTest\SterDbTest\SterDbTest.DA\obj\Debug\SterDbTest.DA.csproj.GenerateResource.Cache
+C:\Users\sasha\Desktop\SterDbTest\SterDbTest\SterDbTest.DA\obj\Debug\SterDbTest.DA.dll
+C:\Users\sasha\Desktop\SterDbTest\SterDbTest\SterDbTest.DA\obj\Debug\SterDbTest.DA.pdb
+C:\Users\sasha\Desktop\SterDbTest\SterDbTest\SterDbTest.DA\obj\Debug\SterDbTest.DA.csprojResolveAssemblyReference.cache
